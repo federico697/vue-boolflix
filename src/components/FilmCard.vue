@@ -6,7 +6,7 @@
                 <ul>
                     <li>Titolo originale: {{singleFilm.original_title}}</li>
                     <li>Lingua: {{singleFilm.original_language}}</li>
-                    <li>Voto: {{singleFilm.vote_averge}}</li>
+                    <li>Voto: {{singleFilm.vote_average}}</li>
                 </ul>
             </div>
         </div>
